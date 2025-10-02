@@ -9,9 +9,6 @@ class DocsAIPanel(foo.Panel):
         return foo.PanelConfig(
             name="docs_ai_panel",
             label="Docs AI",
-            icon="/assets/atom.svg",
-            dark_icon="/assets/atom.svg",
-            light_icon="/assets/atom.svg",
             surfaces=["panel"]
         )
 
