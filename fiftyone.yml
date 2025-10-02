@@ -1,0 +1,9 @@
+name: "@adonaivera/fo-docs-ai"
+description: Integrate the Docs AI widget into the FiftyOne App for AI-powered documentation assistance.
+version: 1.0.2
+fiftyone:
+  version: "*"
+url: "https://github.com/AdonaiVera/fo-docs-ai.git"
+license: Apache 2.0
+panels:
+  - docs_ai_panel
