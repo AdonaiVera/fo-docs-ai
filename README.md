@@ -1,6 +1,7 @@
 # Docs AI Panel Plugin for FiftyOne 🤖
 
 A responsive FiftyOne panel that integrates the official FiftyOne documentation with AI-powered assistance, providing seamless access to docs and code examples directly within your FiftyOne workflow.
+![Screencastfrom2025-10-0120-26-47-ezgif com-video-to-webp-converter](https://github.com/user-attachments/assets/2da470e5-79e8-4565-b05a-57663bd98e59)
 
 ## Installation
 
