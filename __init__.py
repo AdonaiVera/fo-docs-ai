@@ -1,7 +1,7 @@
 import fiftyone.operators as foo
 import fiftyone.operators.types as types
 
-DOCS_URL = "https://docs.voxel51.com"
+DOCS_URL = "https://docs.voxel51.com/?agent=true"
 
 class DocsAIPanel(foo.Panel):
     @property
